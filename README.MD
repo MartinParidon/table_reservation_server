@@ -20,6 +20,9 @@ Please keep in mind that there is no security measure implemented. If you run an
 ## Author
 Martin Paridon
 
+## Constributions
+Feel free to contribute to this public repository. I am new to server programming, so I'd be glad to learn from experienced people. Also feel tree to tell me if you find any bugs.
+
 ## License
 MIT License, see LICENSE.MD
 
